@@ -1,5 +1,24 @@
 [
   {
+    "id": "freelance-copywriters-guild-hub-discord-20260929-1",
+    "title": "SMMA Founders Official Discord",
+    "platform": "Discord",
+    "category": "Agency Mastermind",
+    "memberCount": "48,000+ members",
+    "description": "Active server for agency owners discussing cold calling, Loom video audits, GoHighLevel setups, and client retention.",
+    "joinUrl": "https://discord.gg/smma",
+    "tags": [
+      "smma",
+      "discord",
+      "gohighlevel",
+      "retainers"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-29"
+  },
+  {
     "id": "freelance-copywriters-guild-hub-reddit-20260927-1",
     "title": "r/consulting Professional Advisory",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-27"
   },
   {
