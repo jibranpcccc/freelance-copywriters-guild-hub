@@ -1,5 +1,24 @@
 [
   {
+    "id": "freelance-copywriters-guild-hub-discord-20261001-1",
+    "title": "Media Buyers Global Discord",
+    "platform": "Discord",
+    "category": "Paid Media",
+    "memberCount": "52,000+ members",
+    "description": "Managing multi-million dollar quarterly client ad spend across TikTok, Meta, Google, and YouTube.",
+    "joinUrl": "https://discord.gg/mediabuyers",
+    "tags": [
+      "mediabuyers",
+      "discord",
+      "adspend",
+      "roas"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-01"
+  },
+  {
     "id": "freelance-copywriters-guild-hub-discord-20260930-1",
     "title": "Digital Agency Owners Discord",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-30"
   },
   {
