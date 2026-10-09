@@ -1,5 +1,24 @@
 [
   {
+    "id": "freelance-copywriters-guild-hub-reddit-20261009-1",
+    "title": "r/business Corporate Leadership",
+    "platform": "Reddit",
+    "category": "Business Enterprise",
+    "memberCount": "1,400,000+ members",
+    "description": "Enterprise organizational structures, executive hiring, consulting engagements, and corporate vendor management.",
+    "joinUrl": "https://www.reddit.com/r/business/",
+    "tags": [
+      "business",
+      "corporate",
+      "vendors",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-09"
+  },
+  {
     "id": "freelance-copywriters-guild-hub-telegram-20261008-1",
     "title": "B2B Lead Gen Daily Telegram Channel",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-08"
   },
   {
