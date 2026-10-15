@@ -1,5 +1,24 @@
 [
   {
+    "id": "freelance-copywriters-guild-hub-reddit-20261015-1",
+    "title": "r/AffiliateMarket Professional Network",
+    "platform": "Reddit",
+    "category": "Affiliate Networks",
+    "memberCount": "42,000+ members",
+    "description": "The dedicated Reddit forum for performance marketing networks, CPA offer analysis, and payout proofs.",
+    "joinUrl": "https://www.reddit.com/r/AffiliateMarket/",
+    "tags": [
+      "affiliate",
+      "cpa",
+      "networks",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-15"
+  },
+  {
     "id": "freelance-copywriters-guild-hub-telegram-20261013-1",
     "title": "Agency Growth Hub Broadcast Telegram",
     "platform": "Telegram",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-13"
   },
   {
