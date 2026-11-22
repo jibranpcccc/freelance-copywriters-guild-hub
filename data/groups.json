@@ -1,5 +1,24 @@
 [
   {
+    "id": "high-conversion-copywriting-vsl-guild-reddit-5",
+    "title": "r/marketing Persuasion Science",
+    "platform": "Reddit",
+    "category": "Consumer Psychology",
+    "memberCount": "850,000+ members",
+    "description": "Behavioral economics, Cialdini's principles of persuasion, market desire channeling, and cognitive biases.",
+    "joinUrl": "https://www.reddit.com/r/marketing/",
+    "tags": [
+      "marketing",
+      "persuasion",
+      "psychology",
+      "bias"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-22"
+  },
+  {
     "id": "high-conversion-copywriting-vsl-guild-reddit-4",
     "title": "r/advertising Creative Campaigns",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-21"
   },
   {
@@ -948,24 +967,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "high-conversion-copywriting-vsl-guild-reddit-5",
-    "title": "r/marketing Persuasion Science",
-    "platform": "Reddit",
-    "category": "Consumer Psychology",
-    "memberCount": "850,000+ members",
-    "description": "Behavioral economics, Cialdini's principles of persuasion, market desire channeling, and cognitive biases.",
-    "joinUrl": "https://www.reddit.com/r/marketing/",
-    "tags": [
-      "marketing",
-      "persuasion",
-      "psychology",
-      "bias"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "high-conversion-copywriting-vsl-guild-reddit-6",
